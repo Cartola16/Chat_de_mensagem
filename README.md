@@ -1,0 +1,2 @@
+# Chat_de_mensagem
+Baseado na lib socket do Python, esse programa cria um servidor onde você pode enviar e receber mensagens. Para o programa funcionar, é necessário que o server.py esteja sendo executado, pois ele é o servidor que fará as mensagens serem enviadas e recebidas. Agora para você enviar e receber mensagens, tu precisa executar o client.py, e através dele você irá enviar e receber as mensagens
